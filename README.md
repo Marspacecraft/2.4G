@@ -1,6 +1,7 @@
 # 2.4G键盘鼠标无线接收器
     stm32f103c8主控
     nrf24l01无线模块接受
+    依赖 I-CUBE-USBD-Composite 实现usb hid复合设备功能
 ## nrf24无线通信协议
     见[G24.h](https://github.com/Marspacecraft/2.4G/blob/main/Core/Inc/G24.h)文件
 ## 键盘报告描述符
